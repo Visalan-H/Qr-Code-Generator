@@ -10,6 +10,8 @@ It's simpler than microwave popcorn! 🍿 Just type your text or URL into the bo
 
 ## How to Use
 
+Visit this link : https://visalan-h.github.io/Qr-Code-Generator/
+
 1. Type your text or URL.
 2. Click the "Generate QR Code" button.
 3. Scan that shiny QR code with your phone.
